@@ -1,7 +1,7 @@
 package main
 
 /*
-[Calculator for Investors - Stage 4/4: Who is the best?](https://hyperskill.org/projects/264/stages/1337/implement)
+[Calculator for Investors - Stage 4/4: Who is the best?](https://hyperskill.org/projects/264/stages/1338/implement)
 -------------------------------------------------------------------------------
 [Sorting slices](https://hyperskill.org/learn/step/18617)
 */
